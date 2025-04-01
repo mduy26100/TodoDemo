@@ -1,0 +1,12 @@
+C:\NetCore\TodoReactNet\Backend\TodoBackendV8\src\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\NetCore\TodoReactNet\Backend\TodoBackendV8\src\Domain\bin\Debug\net8.0\Domain.dll
+C:\NetCore\TodoReactNet\Backend\TodoBackendV8\src\Domain\bin\Debug\net8.0\Domain.pdb
+C:\NetCore\TodoReactNet\Backend\TodoBackendV8\src\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetCore\TodoReactNet\Backend\TodoBackendV8\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\NetCore\TodoReactNet\Backend\TodoBackendV8\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\NetCore\TodoReactNet\Backend\TodoBackendV8\src\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\NetCore\TodoReactNet\Backend\TodoBackendV8\src\Domain\obj\Debug\net8.0\Domain.dll
+C:\NetCore\TodoReactNet\Backend\TodoBackendV8\src\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\NetCore\TodoReactNet\Backend\TodoBackendV8\src\Domain\obj\Debug\net8.0\Domain.pdb
+C:\NetCore\TodoReactNet\Backend\TodoBackendV8\src\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\NetCore\TodoReactNet\Backend\TodoBackendV8\src\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
